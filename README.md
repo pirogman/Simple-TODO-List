@@ -1,10 +1,7 @@
 # Simple-TODO-List
 Simple TODO list app with draggable and swipable items
 
-![Alt text](/Simple-TODO-List/Screenshots/Apple iPhone 11 Pro Max Screenshot 1.png?raw=true "Categories")
-![Alt text](/Screenshots/Apple iPhone 11 Pro Max Screenshot 2.png?raw=true "Tutorial")
-![Alt text](/Screenshots/Apple iPhone 11 Pro Max Screenshot 3.png?raw=true "Simple Item")
-![Alt text](/Screenshots/Apple iPhone 11 Pro Max Screenshot 4.png?raw=true "Due Item")
+![image](/pirogman/Simple-TODO-List/Screenshots/Apple iPhone 11 Pro Max Screenshot 1.png?raw=true "Categories")
 
 # Features
 
