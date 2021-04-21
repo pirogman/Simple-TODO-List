@@ -1,7 +1,7 @@
 # Simple-TODO-List
 Simple TODO list app with draggable and swipable items
 
-![](Screenshots/Apple iPhone 11 Pro Max Screenshot 1.png)
+<img src="Screenshots/screenshot1"> <img src="Screenshots/screenshot2"> <img src="Screenshots/screenshot3"> <img src="Screenshots/screenshot3">
 
 # Features
 
